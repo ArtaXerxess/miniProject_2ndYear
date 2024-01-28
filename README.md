@@ -1,4 +1,4 @@
-# Detection of DDoS Attack on Software Defined Networks using Support Vector Machines.
+# Detection of Distributed Denial of Service Attack on Software Defined Networks using Support Vector Machines.
 
 
 1. This directory module1 contains four directories.
